@@ -1,0 +1,13 @@
+MUXIN AI SCRM
+Copyright 2026 MUXIN contributors
+
+This product includes software developed by third-party open-source
+communities. The required copyright notices and license texts are retained
+in THIRD_PARTY_NOTICES.md and in the LICENSE files shipped with this
+repository.
+
+This product includes software developed by the youlai open-source community:
+- youlai-boot, licensed under the Apache License 2.0.
+- vue3-element-admin, licensed under the MIT License.
+
+See THIRD_PARTY_NOTICES.md, DISCLAIMER.md and the LICENSE files for details.
